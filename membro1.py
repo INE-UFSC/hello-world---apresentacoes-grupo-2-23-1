@@ -1,2 +1,11 @@
 def hello():
-	return "Olá, eu sou o Matheus, tenho 19 anos. Gosto de programar, de ler e de escrever. Já programo com algumas linguagens como C, JavaScript e Python (só checar meu perfil). Espero aprendar mais programação orientada a objetos nessa disciplina." #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+    return "Olá, meu nome é Matheus Fernandes Bigolin, tenho 19 anos e sou"    "\n"\
+           "natural de Florianópolis.  Já tenho experiência com programação e" "\n"\
+           "já desenvolvi alguns projetos pessoais (disponíveis no meu"        "\n"\
+           "GitHub) em algumas linguagens, como C, JavaScript e Python,"       "\n"\
+           "dentre outras; também já participei de uma maratona de"            "\n"\
+           "programação.  Além de programar, no tempo livre, gosto de ler"     "\n"\
+           "obras literárias e artigos, de escrever textos técnicos e de"      "\n"\
+           "ficção e, além disso, tenho um grande interesse pelo estudo da"    "\n"\
+           "matemática.  Espero aprendar mais especificamente sobre o"         "\n"\
+           "paradigma orientado a objetos nessa disciplina."                   "\n"
